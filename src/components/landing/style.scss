@@ -21,12 +21,13 @@ h1 {
   font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka,
     "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
   font-size: 2rem;
+  margin-top: 5rem;
   display: inline-block;
   padding: 1rem;
   font-weight: 400;
   position: relative;
   opacity: 1;
-  transform: scale(1);
+  transform: scale(1.5);
   transition: transform 0.5s ease, opacity 1s ease;
 }
 
